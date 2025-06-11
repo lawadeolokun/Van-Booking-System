@@ -4,8 +4,11 @@ A Java-based command-line application that models a van booking system using Obj
 
 ## 💡 Features
 
-- Add customers, owners, vans, and drivers
+- Register new customers with name, phone number, and address
+- View and select from available vans 
 - Submit booking requests with service types
+- Assign a driver automatically
+- View a summary of all bookings
 - Uses OOP: inheritance, encapsulation, and composition
 - Interactive command-line interface
 

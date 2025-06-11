@@ -35,7 +35,9 @@ Welcome to the Van Booking System!
 4. Exit
 
 Enter customer name: Law
+
 Enter phone number: 0851234567
+
 Enter address: 21 Jump Street
 
 Choose a service type:

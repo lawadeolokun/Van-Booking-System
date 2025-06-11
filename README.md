@@ -54,11 +54,19 @@ Available vans:
 Select a van: 1
 
 Booking Details:
+
 Customer Name: Law
+
 Phone Number: 0851234567
+
 Address: 21 Jump Street
+
 Service: MOVING
+
 Date: 20-06-2025
+
 Van: Sprinter
+
 Driver Name: Sammy
+
 Driver Phone Number: 0847283902

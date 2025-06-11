@@ -26,7 +26,7 @@ A Java-based command-line application that models a van booking system using Obj
    javac Main.java
    java Main
 
-Example of Booking Flow:
+## Example of Booking Flow:
 
 Welcome to the Van Booking System!
 1. Register a Customer

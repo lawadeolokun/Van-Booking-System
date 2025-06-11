@@ -23,5 +23,5 @@ A Java-based command-line application that models a van booking system using Obj
    ```bash
    git clone https://github.com/lawadeolokun/Van-Booking-System.git
    cd VanBookingSystem/src
-   javac *.java
+   javac Main.java
    java Main
